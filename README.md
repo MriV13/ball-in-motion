@@ -1,4 +1,4 @@
-# ball_in_motion
+# ball-in-motion
 Ball in Motion
 
 My C++ learning project (Simple logic Game)
